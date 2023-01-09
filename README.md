@@ -1,4 +1,4 @@
-# Challenge
+# implementation of matrix vector multiplication using Halide lang  
 
 //Descrition: 
 
